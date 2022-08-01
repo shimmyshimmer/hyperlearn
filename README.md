@@ -1,5 +1,5 @@
 <p align="center">
-<img src="Images/HyperLearn_Logo.png" alt="drawing" width="300"/>
+<img src="https://i.imgur.com/mNjwpnG.png" alt="drawing" width="500"/>
 </p>
 
 <h4 align="center">
